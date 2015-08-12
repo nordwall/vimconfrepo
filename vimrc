@@ -9,6 +9,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'vim-scripts/xoria256.vim'
 Plugin 'hdima/python-syntax'
 Plugin 'davidhalter/jedi-vim'
+Plugin 'scrooloose/nerdtree'
 
 call vundle#end()
 
