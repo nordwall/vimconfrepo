@@ -1,0 +1,9 @@
+set nocompatible
+set background=dark
+set number
+set wrap
+set tabstop=4
+set shiftwidth=4
+
+set grepprg=grep\ -nH\ $*
+set clipboard=unnamed
